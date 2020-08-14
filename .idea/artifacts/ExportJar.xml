@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="ExportJar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExportJar</output-path>
+    <root id="root">
+      <element id="archive" name="SecureATMMachine.jar">
+        <element id="module-output" name="SecureATMMachine" />
+        <element id="library" level="project" name="lib" />
+        <element id="file-copy" path="$USER_HOME$/JAR Files/sqlite-jdbc-3.16.1.jar" />
+        <element id="file-copy" path="$USER_HOME$/JAR Files/twilio-7.9.1-alpha-1-jar-with-dependencies.jar" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SecureATMMachine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SecureATMMachine_jar</output-path>
+    <root id="archive" name="SecureATMMachine.jar">
+      <element id="module-output" name="SecureATMMachine" />
+      <element id="extracted-dir" path="$USER_HOME$/JAR Files/sqlite-jdbc-3.16.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/javafx/javafx-sdk-15/lib/src.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/javafx/javafx-sdk-15/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/javafx/javafx-sdk-15/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/javafx/javafx-sdk-15/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/javafx/javafx-sdk-15/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/javafx/javafx-sdk-15/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/javafx/javafx-sdk-15/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/javafx/javafx-sdk-15/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/javafx/javafx-sdk-15/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/JAR Files/twilio-7.9.1-alpha-1-jar-with-dependencies.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

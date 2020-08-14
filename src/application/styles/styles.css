@@ -1,0 +1,11 @@
+.bg-dark {
+-fx-background-color: #512DA8;
+}
+
+.bg-light  {
+-fx-background-color: #673AB7;
+}
+
+.txt-fill {
+-fx-text-fill: #ffffff
+}

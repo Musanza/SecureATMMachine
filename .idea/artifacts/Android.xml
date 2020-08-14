@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="Android">
+    <output-path>$PROJECT_DIR$/out/artifacts/Android</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyAlias" value="key0" />
+        <option name="keyPassword" value="I2dpZnQ/Pz8=" />
+        <option name="keyStorePassword" value="I2dpZnQ/Pz8=" />
+        <option name="keyStoreUrl" value="file://$USER_HOME$/AndroidStudioProjects/apkexport.jks" />
+        <option name="signingMode" value="RELEASE_SIGNED" />
+      </options>
+    </properties>
+    <root id="archive" name="Android.apk" />
+  </artifact>
+</component>
